@@ -2,8 +2,8 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-red)](https://www.youtube.com)
 [![Linkedin Badge](https://img.shields.io/badge/-sunil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunil-kumar-672a37107/)](https://www.linkedin.com/in/sunil-kumar-672a37107/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Sunil-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-sunil-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Website Badge](https://img.shields.io/badge/WebSite-Sunil-green)](https://www.Sunil)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-sunil-yellow)](https://stackoverflow.com/users/19625408/sunil-kumar)
 
 I'm
 Full Stack Developer
